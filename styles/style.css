@@ -1,6 +1,6 @@
 html {
-  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
-  font-family: "Roboto", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
 }
 
 h1 {
@@ -37,5 +37,5 @@ h1 {
 img {
   display: block;
   margin: 0 auto;
-  width: 500px;
+  max-width: 100%;
 }
